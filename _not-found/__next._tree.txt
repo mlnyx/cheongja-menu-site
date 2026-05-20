@@ -1,0 +1,3 @@
+:HL["/cheongja-menu-site/_next/static/chunks/02~zbi~tkp8-0.css","style"]
+:HL["https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/variable/pretendardvariable.min.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"G7eTsllRo3I2N8rHJjeHa"}

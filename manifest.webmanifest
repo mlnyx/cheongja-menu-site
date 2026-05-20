@@ -1,0 +1,26 @@
+{
+  "name": "청자다방 풍암점",
+  "short_name": "청자다방",
+  "description": "청자다방 풍암점 메뉴 + 셀프 주문",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#3182f6",
+  "lang": "ko",
+  "categories": ["food", "lifestyle"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
